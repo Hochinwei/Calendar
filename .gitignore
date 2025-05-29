@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 README.qmd
+README.Rmd
+README.html
