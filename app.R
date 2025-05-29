@@ -12,7 +12,7 @@ reunion_date <- as.Date("2025-06-13")
 # -----------------------
 
 ui <- fluidPage(
-  theme = shinytheme("lumen"),
+  # theme = shinytheme("lumen"),
   # App title at the top
   titlePanel("Countdown to Reunion"),
   # Main layout: sidebar + main content
